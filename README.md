@@ -1,6 +1,7 @@
 # Getting Started
 
 Extension preview
+
 ![alt text](https://github.com/pro0pegasus/Leads-Tracker/blob/main/pro0pegasus%20(Yassine%20Borak).png)
 
 Install the dependencies and run the project
